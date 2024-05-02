@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lucas de Castro, and I'm a Computational Engineer student at Juiz de Fora/MG. I've already worked in different kinds of projects, but I'm currently working as a Front-end developer. 
+My name is Lucas de Castro, and I'm a Computational Engineer student at Juiz de Fora/MG. I've already worked in different kinds of projects, but I'm currently working as a web developer. 
 
 How to find me:
 
