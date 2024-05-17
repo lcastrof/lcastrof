@@ -15,9 +15,6 @@ How to find me:
 
 ____
 
-
-[![Lucas de Castro's github stats](https://github-readme-stats.vercel.app/api?username=lcastrof&theme=dark&show_icons=true&count_private=true)](https://github.com/lcastrof)
-
 <!--
 **lcastrof/lcastrof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
